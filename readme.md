@@ -13,8 +13,8 @@ Contains:
 
 ## Installation:
 
-[i]Install this mod like any other mod.[/i]
-[b]* Make sure the .bikey has been copied into your server keys folder.[/b]
+<i>Install this mod like any other mod.</i>
+<b>* Make sure the .bikey has been copied into your server keys folder.</b>
 
 ## Contact
 
