@@ -1,10 +1,10 @@
 name="BetterBottles";
 tooltip="BetterBottles";
 overview="Realistic bottle capacities. Can repair canteen and filtering bottle with epoxy. Can repair water bottle with duct tape. Can attach filtering bottle to belt.";
-picture="BetterBottles/data/picture.paa";
-logoSmall="BetterBottles/data/logoSmall.paa";
-logo="BetterBottles/data/logo.paa";
-logoOver="BetterBottles/data/logo.paa";
+picture="BetterBottles\data\picture.paa";
+logoSmall="BetterBottles\data\logoSmall.paa";
+logo="BetterBottles\data\logo.paa";
+logoOver="BetterBottles\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637975432";
 author="moldypenguins";
 version="1.1";

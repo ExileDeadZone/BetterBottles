@@ -27,7 +27,7 @@ class CfgVehicles
 	class Canteen_Black: Canteen
 	{
     hiddenSelections[]={ "zbytek" };
-		hiddenSelectionsTextures[]={ "BetterBottles/dz/gear/drinks/data/canteen_black_co.paa" };
+		hiddenSelectionsTextures[]={ "BetterBottles\dz\gear\drinks\data\canteen_black_co.paa" };
     repairableWithKits[]={8};
 		repairCosts[]={50};
     //weight=250;
