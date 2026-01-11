@@ -21,7 +21,7 @@ class CfgMods
     picture="BetterBottles/data/picture.paa";
     logoSmall="BetterBottles/data/logoSmall.paa";
     logo="BetterBottles/data/logo.paa";
-    logoOver="BetterBottles/data/logoOver.paa";
+    logoOver="BetterBottles/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637975432";
     credits="moldypenguins";
     author="moldypenguins";
