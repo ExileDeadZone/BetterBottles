@@ -28,8 +28,7 @@
 [/code]
 
 [b]NOTES:[/b]
-- FilteringBottle and Canteen are included in the types file for easier management.
-- If you uncomment them, please comment out the ones in your types.xml file.
+- FilteringBottle and Canteen are included in the types file. If you uncomment them, comment out the ones in your types.xml file.
 
 [h2]GITHUB:[/h2]
 [url=https://github.com/IsleOfTheDead/BetterBottles]https://github.com/IsleOfTheDead/BetterBottles[/url]
