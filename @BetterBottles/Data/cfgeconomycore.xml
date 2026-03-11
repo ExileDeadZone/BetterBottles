@@ -10,7 +10,7 @@
   <!-- COPY BETWEEN HERE -->
   <!-- additional types -->
   <ce folder="db/types">
-    <!-- Isle of The Dead -->
+    <!-- Exile: Dead Zone -->
     <file name="BetterBottles.xml" type="types" />
     <!-- more additional type files... -->
   </ce>

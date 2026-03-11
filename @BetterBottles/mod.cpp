@@ -7,4 +7,4 @@ logo="BetterBottles\data\logo.paa";
 logoOver="BetterBottles\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3637975432";
 author="moldypenguins";
-version="1.2";
+version="1.3";

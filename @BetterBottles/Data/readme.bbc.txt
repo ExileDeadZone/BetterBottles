@@ -21,7 +21,7 @@
   <!-- COPY BETWEEN HERE -->
   <!-- additional types -->
   <ce folder="db/types">
-    <!-- Isle of The Dead -->
+    <!-- Exile: Dead Zone -->
     <file name="BetterBottles.xml" type="types" />
     <!-- more additional type files... -->
   </ce>
@@ -33,10 +33,10 @@
 - FilteringBottle and Canteen are included in the types file. If you uncomment them, comment out the ones in your types.xml file.
 
 [h2]GITHUB:[/h2]
-[url=https://github.com/IsleOfTheDead/BetterBottles]https://github.com/IsleOfTheDead/BetterBottles[/url]
+[url=https://github.com/ExileDeadZone/BetterBottles]https://github.com/ExileDeadZone/BetterBottles[/url]
 
 [h2]CONTACT:[/h2]
-[url=https://discord.gg/isleofthedead][img]https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png[/img][/url]
+[url=https://discord.gg/ExileDeadZone][img]https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/discord.png[/img][/url]
 
 [h2]LEGAL:[/h2]
 [b]REPACKING IS ALLOWED.[/b]
